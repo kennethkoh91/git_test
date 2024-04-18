@@ -1,2 +1,3 @@
 hello world
 I am excited to be here!
+I'm learning about the different git commands: git add, git commit, git push.
