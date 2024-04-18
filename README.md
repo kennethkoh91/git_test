@@ -1,3 +1,4 @@
 # git_test
 Hello Odin!
-2333
+I want to become proficient at web programming (HTML, CSS, Javascript).
+I want to learn programming in Python.
